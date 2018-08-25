@@ -6,6 +6,5 @@
 ## Data source : 
 1. 社會經濟資料服務平台-統計區人口相關資料
 2. 台中市數位地圖館-門牌資料、建築物資料、地標資料
-
-![](https://i.imgur.com/6jUITL8.jpg=100x100)
  
+<img src="https://i.imgur.com/6jUITL8.jpg=100x100" width="500" height="500">
