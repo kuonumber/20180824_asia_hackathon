@@ -2,6 +2,15 @@
 
 [Urban Hacker ppt ](https://docs.google.com/presentation/d/1YsWNO7KLoT8U8Loar7x4ftyJSbBd955TzjSv1tG3p4Q/edit?usp=sharing)
 
+## 理念
+Open Data
+- Spatial analysis builds more deep values.
+
+UGC data
+- “user generated content”  creates insight of business.
+
+Reinforcement learning algorithms.
+- feedbacks improve "precision marketing"
 
 ## Data source : 
 1. 社會經濟資料服務平台-統計區人口相關資料
